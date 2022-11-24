@@ -1,22 +1,15 @@
-body { background-color: 	#000000; 
-color: #FFFFFF;
-}
+body {background-color: rgb(211, 211, 211);}
+
 h1 {
-  font-size: 20px; 
+  border-style: dotted;
 }
+
 p {
-  font-size: 12px; color: green
+  background-color: white
 }
-div {
-  border-style: dotted; border-width: 2px;
-}
-.div {
-  width: 100px;
-  height: 100px;
-}
-ol{
-    list-style-type: lower-latin;
-}
-ul{
-    list-style-type: square;
+
+p {
+  border-radius: 25px;
+  padding: 10px;
+  width: 200px; 
 }
